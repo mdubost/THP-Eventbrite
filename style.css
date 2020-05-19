@@ -1,0 +1,14 @@
+.footer {
+  height: 150px;
+  background-color: #EAEAEA;
+  bottom: 0;
+  left:0;
+  right: 0;
+  position: absolute;
+  padding: 30px;
+}
+
+.jumbotron {
+  background: url('party.jpeg') no-repeat center center;
+  background-size: cover;
+}
